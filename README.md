@@ -1,0 +1,4 @@
+- 👋 Hi, I’m ebraam wdaee
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning js
+- 📫 How to reach me ebraamwadee@gmail.com
